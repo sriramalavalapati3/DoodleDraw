@@ -22,7 +22,7 @@ A **real-time multiplayer drawing and guessing game** built with **TypeScript, N
 
 ## 🗂️ Project Structure
 
-```
+
 
 doodledraw-backend/
 │
@@ -39,7 +39,6 @@ doodledraw-backend/
 ├── package.json
 └── tsconfig.json
 
-````
 
 ---
 
