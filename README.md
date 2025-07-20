@@ -168,3 +168,15 @@ Happy Building 🚀✨
 
 ```
 ```
+### 📅 **Task Distribution:**
+
+- [ ] **Day 1:** Project setup, TypeScript backend, structure, and `README.md`
+- [ ] **Day 2:** Implement Socket.IO room management, joining, and player tracking
+- [ ] **Day 3:** Complete round logic (word selection, drawer rotation, timer)
+- [ ] **Day 4:** Implement scoring and masked letter reveal system
+- [ ] **Day 5:** Setup frontend with Tailwind, basic room join/create UI
+- [ ] **Day 6:** Integrate frontend with Socket.IO for player list and game flow
+- [ ] **Day 7:** Implement canvas drawing with live broadcasting
+- [ ] **Day 8:** Add guessing input and real-time feedback
+- [ ] **Day 9:** Testing for multiple players (use incognito or localhost tabs)
+- [ ] **Day 10:** Polish UI, handle refresh reconnect logic, prepare for deployment
